@@ -1,0 +1,2 @@
+//Seleciona uma tag, via console, que contenha o elemento na pequisa.
+document.querySelector('.tecla_pom')
